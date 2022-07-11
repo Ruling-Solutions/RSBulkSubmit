@@ -1,0 +1,15 @@
+﻿Report Malware or False Positives to Multiple Antivirus Vendors
+- Author: Gizmo Editors
+- URL: https://www.techsupportalert.com/how-to-report-malware-or-false-positives-to-multiple-antivirus-vendors/
+False Positive Center
+- Author: Yaron Elharar
+- URL: https://github.com/yaronelh/False-Positive-Center
+Definitive Resource List to Fix False Positive Virus Malware Scans
+- Author: Jason
+- URL: https://www.getvisible.com/false-positive-virus-malware-scans/
+Antivirus Labs Email for Malware Submission
+- Author: Kamil Alta
+- URL: https://github.com/alternat0r/List-of-Antivirus-Labs-Email-for-Malware-Submission
+Antivirus contact list
+- Author: CoinForensics
+- URL: https://bitcoinissafe.com/antivirus-contact-list

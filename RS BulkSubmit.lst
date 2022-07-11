@@ -1,0 +1,162 @@
+﻿; ======================= VENDORS LIST ======================
+; Info of each vendor goes in one line, pipe separated (|):
+; Name|Email for malware|Malware submission URL|Email for false positives|FP submission URL|HomePage|Comments
+; -----------------------------------------------------------
+; NOTE: More columns can be added, but they will be ignored.
+; ===========================================================
+*Agnitum|trojans@agnitum.com||trojans@agnitum.com||http://www.agnitum.com/
+*Ashampoo||#Emsisoft||#Emsisoft|https://ashampoo.com/en/usd/pin/0249/Security_Software/Ashampoo-Anti-Malware
+*Baidu|bav@baidu.com||bav@baidu.com||https://antivirus.baidu.com/en/|\l1Last version: 2015/05/29\n\l1Other email: gaoyingchun@baidu.com
+*BluePoint Security|samples@bluepointsecurity.com||fp@bluepointsecurity.com||https://bluepointsecurity.com/presentationlayer/pages/home.aspx
+*ByteHero|bytehero@163.com||bytehero@163.com||http://bytehero.com/
+*Cyberoam||#Avira||#Avira|https://www.cyberoam.com/|\l1Adquired and discontinued by Sophos.\n\l1Homepage redirects to Sophos site.
+*F-Prot/FRISK|viruslab@f-prot.com|http://support.f-prot.com/index.php?/Tickets/Submit/RenderForm/7|viruslab@f-prot.com|http://support.f-prot.com/index.php?/Tickets/Submit/RenderForm/7|https://f-prot.com/|URL redirects to https://www.cyren.com
+*Hacksoft TheHacker|virus@hacksoft.com.pe||falsopositivo@hacksoft.com.pe||http://www.hacksoft.com.pe/
+*Invincea|info@invincea.com||info@invincea.com||https://www.invincea.com|Adquired by Sophos in 2017.
+*Microsoft Security Essentials||https://www.microsoft.com/security/portal/Submission/Submit.aspx||https://www.microsoft.com/security/portal/Submission/Submit.aspx|https://www.microsoft.com/en-us/download/details.aspx?id=5201
+*Norman|analysis@norman.no||falsepositive@norman.no||https://www.norman.com/en-ww/homepage|\l1Adquired by AVG\n\l1Other email: support@norman.com
+*Roboscan||https://www.roboscan.com/support/virus_report.aspx|||https://www.roboscan.com/|Now called ALYac.
+*SafeNet eSafe|support@safenet-inc.com||support@safenet-inc.com||http://www.safenet-inc.com/|Site redirected to https://cpl.thalesgroup.com
+*SpyCop|||||https://www.spycop.com/
+*SRN/Solo Antivirus|vlab@srnmicro.com||vlab@srnmicro.com||http://www.srnmicro.com/
+*UnThreat||#Vipre||#Vipre|http://unthreat.com
+*VirusBlokAda/VBA32|newvirus@anti-virus.by|https://www.anti-virus.by/check/|feedback@anti-virus.by|https://www.anti-virus.by/check/|https://www.anti-virus.by/en/index.shtml|Other email: support-en@anti-virus.by
+360|kefu@360.cn|https://sampleup.sd.360.cn|kefu@360.cn|https://sampleup.sd.360.cn|https://open.soft.360.cn/
+Acronis Active Protection|cybersecuritylab@acronis.com|https://www.acronis.com/en-us/support/contact-us/|cybersecuritylab@acronis.com|https://www.acronis.com/en-us/support/contact-us/|https://www.acronis.com/en-us/|Report by support page requires registration.
+Acronis PE analyzer|||virustotal-falsepositive@acronis.com|https://kb.acronis.com/content/62189|https://blog.virustotal.com/2018/12/virustotal-acronis.html
+AegisLab/Lionic|submit@lionic.com||support@aegislab.com|https://www.aegislab.com/reportfp|https://aegislab.com/|Other email: support@lionic.com
+AhnLab|v3sos@ahnlab.com|https://global.ahnlab.com/site/support/virusreport/virusReport.do|samples@ahnlab.com|https://global.ahnlab.com/site/support/virusreport/virusReport.do|https://global.ahnlab.com/site/main.do|\l1Report needs registration.\n\l1Other emails for false positives:\n\l2e-support@ahnlab.com\n\l2v3sos@ahnlab.com
+Alibaba|virustotal@list.alibaba-inc.com||virustotal@list.alibaba-inc.com||http://www.alibabagroup.com/en/global/home
+Antiy/AVL|submit@antiy.com|https://www.antiy.com/tools.html|avlsdk_support_vt@antiy.cn|https://www.antiy.com/tools.html|http://www.antiy.com/|\l1Current site in chinese.\n\l1Previous page not working: https://www.antiy.net\n\l1Other report email: submit@antiy.com\n\l1Report using Windows tool.\n\l2Go to section "病毒提交工具" and click in button "下载".\n\l2Use a translation tool.\n\l2Direct download (broken link): http://www.antiy.net/media/tools/aupload.zip
+ArcaVir/Arcabit|virus@arcabit.com||pomoc@arcabit.pl||https://www.arcabit.pl/
+Auslogics||#Bitdefender||#Bitdefender|https://www.auslogics.com/en/software/anti-malware/
+Avast|virus@avast.com|https://www.avast.com/report-malicious-file.php|virus@avast.com|https://www.avast.com/false-positive-file-form.php#pc|https://www.avast.com
+AVG|virus@avg.com|https://www.avg.com/en-ww/report-malicious-file|virus@avg.com|https://www.avg.com/en-ww/false-positive-file-form|http://www.avg.com/us-en/homepage|Whitelisting: https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Threat-Lab-file-whitelist
+Avira|virus@avira.com|https://www.avira.com/en/analysis/submit/|cleanset@avira.com|https://www.avira.com/en/analysis/submit/|https://www.avira.com/|\l1Other emails:\n\l2Malware: virus_malware@avira.com\n\l2False positive: novirus@avira.com
+AVZ||#Kaspersky||#Kaspersky|http://www.z-oleg.com/secur/avz/index.php|\l1Reports can also be submitted to: http://www.z-oleg.com/secur/avz/uploadvir.php\n\l2Site in russian.\n\l2Malware: Select option "Подозрительный файл".\n\l2False positive: Select option "Ложное срабатывание".
+Babable|obu@babable.com||obu@babable.com||https://www.babable.com/
+BitDefender|virus_submission@bitdefender.com|https://www.bitdefender.com/consumer/support/answer/29358/|virus_submission@bitdefender.com|https://www.bitdefender.com/consumer/support/answer/29358/|https://www.bitdefender.com/|\l1Other emails:\n\l2False positives: oemsamples@bitdefender.com\n\l2General enquiries: office@bitdefender.com
+Bkav|bkav@bkav.com||fpreport@bkav.com||https://www.bkav.com/|Other report email: bkav@bkav.com.vn
+BullGuard|support@bullguard.com|#Immunet Protect|support@bullguard.com|#Immunet Protect|https://www.bullguard.com/
+ByteFence|||fp@bytefence.com||https://bytefence.com|\l1ByteFence is classified as nagware by Malwarebytes:\n\l2https://forums.malwarebytes.com/topic/215281-removal-instructions-for-bytefence-anti-malware\n\l1Free version installer comes with bundleware:\n\l2https://answers.microsoft.com/en-us/protect/forum/all/is-bytefence-safe-or-is-it-a-virus/67c648e4-ee0e-41ac-95f0-4bdc4c66aa79
+Celframe|||||https://celframe.com
+Certego|support@certego.net||support@certego.net|https://www.certego.net/en/contatti/|https://www.certego.net/en/
+ClamAV/ClamWin|clamavteam@sourcefire.com|https://www.clamav.net/reports/malware|clamavteam@sourcefire.com|https://www.clamav.net/reports/fp|https://www.clamav.net|ClamWin site: https://clamwin.com
+ClamXAV||https://www.clamxav.com/support/submit-a-file/||https://www.clamxav.com/support/submit-a-file/|https://www.clamxav.com
+Clean-MX|abuse@clean-mx.de||abuse@clean-mx.de||https://clean-mx.com/
+CMC|support.is@cmclab.net||support.is@cmclab.net||https://cmccybersecurity.com/en/|Other email: vulambang@cmcinfosec.com
+Comodo|malwaresubmit@avlab.comodo.com|https://www.comodo.com/home/internet-security/submit.php|falsepositive@avlab.comodo.com|https://www.comodo.com/home/internet-security/submit.php|https://antivirus.comodo.com|Report URL redirects to page for uploading: https://verdict.valkyrie.comodo.com.
+Constant Guard/xfinity||#Symantec||#Symantec|https://www.xfinity.com/stream/entity/8591090059814239112
+CRDF|labs@crdf.fr|https://threatcenter.crdf.fr/submit_url.html|labs@crdf.fr|https://threatcenter.crdf.fr/false_positive.html|https://crdf.fr
+CrowdStrike Falcon|VTscanner@crowdstrike.com||VTscanner@crowdstrike.com||https://www.crowdstrike.com
+Crystal Security|info@crystalsecurity.eu||info@crystalsecurity.eu||https://www.crystalsecurity.eu|One-page site, only one contact email.
+CyanSecurity|virustotal@cyansecurity.com||virustotal@cyansecurity.com||https://www.cyansecurity.com
+Cybereason|vt-feedback@cybereason.com||vt-feedback@cybereason.com||https://www.cybereason.com
+Cylance|cylancefilesubmit@cylance.com||cylancefilesubmit@cylance.com||https://www.blackberry.com/us/en/products/cylance-endpoint-security/cylance-is-blackberry-cybersecurity|How to submit a VirusTotal Inquiry for Cylance Smart Antivirus\n\l1https://support.blackberry.com/kb/articleDetail?language=en_US&articleNumber=000067337\n\l1Include the following information in the email about a file that requires review:\n\l2VirusTotal link to the file requiring a review. Include only 1 VirusTotal link per email submission.\n\l2File name.\n\l2File functionality. What is the purpose of the file?\n\l2Relationship to the file. Are you the developer of the file or a user?
+Cynet|soc@cynet.com||soc@cynet.com||https://www.cynet.com/|Other email: support@cynet.com
+CyRadar|virustotal@cyradar.com||virustotal@cyradar.com||https://cyradar.com
+Cyren|support@cyren.com|https://www.cyren.com/support/reporting-av-misclassifications|support@cyren.com|https://www.cyren.com/support/reporting-av-misclassifications|https://www.cyren.com/|Reporting AV Misclassifications\n\l1https://www.cyren.com/support/reporting-av-misclassifications\n\l1Include following info:\n\l2Your first and last name, and your company if applicable.\n\l2Misclassification reason:\n\l3False Negative - undetected malware or\n\l3False Positive - if you think the file in question was falsely classified as malware\n\l2Attach ZIP archive protected by password "infected" with file in question.
+Defenx|||||https://www.defenx.com/
+Digital Defender|info@digital-defender.com|https://digital-defender.com/sample-submission.html|info@digital-defender.com||https://digital-defender.com
+DNS8|dns8@layer8.pt||dns8@layer8.pt||https://www.layer8.pt/dns8
+Dr. Web|vms@drweb.com|https://vms.drweb.com/sendvirus/|vms@drweb.com|https://vms.drweb.com/sendvirus/|https://www.drweb.com
+Elastic|||fp_reports@elastic.co|https://discuss.elastic.co/t/submitting-false-positives/232322|https://www.elastic.co|\l1Submission requires file hash and VirusTotal link or zip with not standard password.\n\l1Follow instructions at https://discuss.elastic.co/t/submitting-false-positives/232322
+Emco|malware@emcosoftware.com||malware@emcosoftware.com||https://emcosoftware.com
+Emsisoft|submit@emsisoft.com|https://www.emsisoft.com/en/support/submit/|fp@emsisoft.com|https://help.emsisoft.com/en/1720/why-did-an-emsisoft-product-detect-an-innocent-file-as-malware/|https://www.emsisoft.com/en/
+Endgame|info@endgame.com||info@endgame.com||https://www.endgame.com
+ESET Nod32|samples@eset.com||samples@eset.com|https://support.eset.com/en/kb141-submit-a-virus-website-or-potential-false-positive-sample-to-the-eset-lab?page=content&id=SOLN141#SubmitFile|https://www.eset.com/
+Estsoft ALYac|esrc@estsecurity.com|https://en.estsecurity.com/support/report|esrc@estsecurity.com|https://en.estsecurity.com/support/report|https://en.estsecurity.com/|\l1Report using Windows tool.\n\l2Program can be downloaded at report webpage.\n\l2Or with this direct link: https://cdn2.estsecurity.com/en/AYReport_EN.exe
+Faronics|support@faronics.com|#Vipre|support@faronics.com|#Vipre|https://www.faronics.com/products/antivirus
+Filseclab Twister|virus@filseclab.com||fp@filseclab.com||http://www.filseclab.com/en-us/
+FireEye|virustotal@fireeye.com||virustotal@fireeye.com||https://www.fireeye.com
+Forcepoint|suggest@forcepoint.com||suggest@forcepoint.com||https://www.forcepoint.com/es
+Fortinet/FortiGuard|submitvirus@fortinet.com|https://www.fortiguard.com/faq/onlinescanner|submitvirus@fortinet.com|https://www.fortiguard.com/faq/classificationdispute|https://www.fortinet.com
+FortKnox SpyEmergency/Netgate|research@spy-emergency.com||research@spy-emergency.com||https://www.spy-emergency.com
+FSB Antivirus|||||https://beta.fsb-antivirus.com/home|Contact form: https://beta.fsb-antivirus.com/contact-gb
+F-Secure|vsamples@f-secure.com|https://www.f-secure.com/us-en/business/support-and-downloads/submit-a-sample|vsamples@f-secure.com|https://www.f-secure.com/us-en/business/support-and-downloads/submit-a-sample|https://www.f-secure.com/en|Other email: spyware-samples@f-secure.com
+G Data||https://su.gdatasoftware.com/us/sample-submission/||https://su.gdatasoftware.com/us/sample-submission/|https://www.gdata-software.com/
+Gridinsoft|antimalware@gridinsoft.com||antimalware@gridinsoft.com|https://anti-malware.gridinsoft.com/false-detect/|https://gridinsoft.com
+Hauri ViRobot|viruslab@hauri.co.kr||viruslab@hauri.co.kr||https://company.hauri.net/product/anti_virus.html
+herdProtect|malwaresample@herdprotect.com||falsepositive@herdprotect.com|https://www.herdprotect.com/false_positive.aspx|https://www.herdprotect.com|\l1Maybe malwaresample@herdprotect.com rejects emails.\n\l1Contact: info@herdProtect.com
+Hitman Pro|support@hitmanpro.com|#Bitdefender|support@hitmanpro.com|#Bitdefender|https://www.hitmanpro.com/en-us
+Huorong|seclab@huorong.cn||seclab@huorong.cn||https://www.huorong.cn
+Ikarus|samples@ikarus.at||fp@ikarus.at||https://www.ikarussecurity.com|\l1Other emails:\n\l2probe@ikarus.at\n\l2false-positive@ikarus.at
+Immunet Protect|submit@samples.immunet.com|||https://www.immunet.com/false_positive|https://www.immunet.com/|\l1False positive report only by URL form:\n\l2Email removed: support@immunet.com\n\l2https://support.immunet.com/topic/3258-how-to-submit-a-false-positive-updated-instructions/
+INCA nProtect|virus_info@inca.co.kr||virus_info@inca.co.kr||https://nos.nprotect.com/
+INCA Tachyon|isarc@inca.co.kr||isarc@inca.co.kr||https://tachyonlab.com/en/index
+Iolo|support@mail.iolo.com|#F-Prot|support@mail.iolo.com|#F-Prot|https://www.iolo.com/products/system-shield/
+K7|k7viruslab@labs.k7computing.com|https://support.k7computing.com/index.php?/ticket/submit-ticket|reportfp@labs.k7computing.com|https://support.k7computing.com/index.php?/ticket/submit-ticket|https://k7computing.com/en/|Other email: us.support@k7computing.com
+Kaspersky|newvirus@kaspersky.com|https://my.kaspersky.com/?logonSessionData=MyAccount&amp;returnUrl=en%2fkpc%2fsupport%2fviruslab|newvirus@kaspersky.com|https://my.kaspersky.com/?logonSessionData=MyAccount&amp;returnUrl=en%2fkpc%2fsupport%2fviruslab|https://usa.kaspersky.com/|Online analyzer: https://opentip.kaspersky.com/
+Kingsoft Cheetah|operation@cmcm.com||operation@cmcm.com||https://www.cmcm.com/en/cm-security
+KV Antivirus/Jiangmin|virus@jiangmin.com||support@jiangmin.com||http://www.jiangmin.com/index.html|Other email: shaojia@jiangmin.com
+Lavasoft Ad-Aware|malware.labs@adaware.com|https://www.adaware.com/submit-a-malware|malware.labs@adaware.com|https://www.adaware.com/report-false-positives/|https://www.adaware.com/|Previous email: research@lavasoft.com
+Lumension/Ivanti|contact@ivanti.com|#Bitdefender|contact@ivanti.com|#Bitdefender|https://www.ivanti.com/|\l1Lumension renamed as Ivanti.\n\l1Old site: https://www.lumension.com/\n\l1Contact email: contact@ivanti.com
+Malwarebytes||https://forums.malwarebytes.org/index.php?/forum/42-file-detections/||https://forums.malwarebytes.com/forum/122-false-positives/|https://www.malwarebytes.org/|Other report URL: https://forums.malwarebytes.com/forum/44-research-center/
+MaxSecure|tech@maxpcsecure.com|https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm|tech@maxpcsecure.com|https://www.maxpcsecure.com/support/spywaredetector/submitSamples.htm|https://www.maxpcsecure.com/|Report by Windows tool: https://www.maxpcsecure.com/SubmitSamples.exe
+McAfee|virus_research@avertlabs.com|https://mysupport.mcafee.com/Eservice/Default.aspx|virus_research@avertlabs.com|https://mysupport.mcafee.com/Eservice/Default.aspx|https://www.mcafee.com|\l1Submit samples to Labs for suspected malware detection failure:\n\l2https://kc.mcafee.com/corporate/index?page=content&id=KB68030\n\l1Submit potential false positives:\n\l2Subject MUST start with "FALSE:".\n\l2https://service.mcafee.com/?articleId=TS103032&page=shell&shell=article-view
+McAfee GW Edition|datasubmission@mcafee.com|https://support.mcafee.com/ServicePortal/faces/serviceRequests/createSR|virus_research_gateway@avertlabs.com|https://support.mcafee.com/ServicePortal/faces/serviceRequests/createSR
+Microsoft Defender Antivirus|avsubmit@submit.microsoft.com|https://www.microsoft.com/en-us/wdsi/filesubmission|avsubmit@submit.microsoft.com|https://www.microsoft.com/en-us/wdsi/filesubmission|https://docs.microsoft.com/es-mx/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows?view=o365-worldwide|Maybe email avsubmit@submit.microsoft.com doesn't exist.
+Microworld eScan|samples@escanav.com|http://support.mwti.net/support/index.php?/Tickets/Submit|fp@escanav.com|http://support.mwti.net/support/index.php?/Tickets/Submit|https://www.escanav.com/en/index.asp|“False positive” option on submit a ticket page does not exist.
+MKS|pomoc@mks-vir.pl||pomoc@mks-vir.pl||https://mks-vir.pl
+Moon Secure||#ClamAV||#ClamAV|https://moonsecure.org/df
+MSecure||#Ikarus||#Ikarus|https://msecuredatalabs.com/
+NANO Antivirus|||false@nanoav.ru|https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en|https://nano-av.com/
+Netcraft|scam@netcraft.com|https://report.netcraft.com/report||https://report.netcraft.com/report/mistake|https://www.netcraft.com/
+NoraScan|support@noralabs.com||support@noralabs.com||https://www.noralabs.com
+Norton|avsubmit@symantec.com|https://submit.norton.com||https://submit.norton.com|https://us.norton.com|Symantec site: https://securitycloud.symantec.com
+Palo Alto Networks|unit42-investigations@paloaltonetworks.com||vt-pan-false-positive@paloaltonetworks.com||https://www.paloaltonetworks.com/
+Panda|virussamples@pandasecurity.com|https://pandasecurity.com/usa/homeusers/support/contact.htm|falsepositives@pandasecurity.com|https://pandasecurity.com/usa/homeusers/support/contact.htm|https://www.pandasecurity.com|\l1Other emails:\n\l2support@pandasecurity.com\n\l2virus@pandasecurity.com
+Phishing Database||https://github.com/mitchellkrogza/phishing/blob/main/add-link||https://github.com/mitchellkrogza/Phishing.Database/issues/new?assignees=mitchellkrogza%2C+funilrys&labels=false+positive&template=false-positive.md&title=%5BFALSE-POSITIVE%5D+|https://github.com/mitchellkrogza/Phishing.Database|Add phishing links/URLs to database sending a Pull Request on the file:\nhttps://github.com/mitchellkrogza/phishing/blob/main/add-link
+Preventon|sample@preventon.com||sample@preventon.com||https://www.preventon.com/
+Protector Plus/Proland|pspl@agree.net||pspl@agree.net||https://pspl.com/virus_info/alerts.htm
+PSafe|support@psafe.com||support@psafe.com||https://www.psafe.com/
+Qihoo-360|support@360safe.com|https://www.360totalsecurity.com/en/suspicion/|kefu@360.cn|https://www.360totalsecurity.com/en/suspicion/false-positive/|https://www.360totalsecurity.com
+Quick Heal/CAT|viruslab@quickheal.com|https://techsupport.quickheal.com/report-an-issue/malware|viruslab@quickheal.com|https://techsupport.quickheal.com/report-an-issue/false-positive|https://www.quickheal.co.in/|Other email: oemengine@quickheal.com
+Reason Core Security|||falsepositive@reasoncoresecurity.com||https://www.reasonsecurity.com
+Rising|rav@rising.com.cn|http://mailcenter.rising.com.cn/filecheck_en/|rav@rising.com.cn|http://mailcenter.rising.com.cn/filecheck_en/|https://www.rising.com.cn/
+RocketCyber|support@rocketcyber.com||support@rocketcyber.com||https://www.rocketcyber.com/
+Rubus Ozone Antivirus|support@rubus.co.in||support@rubus.co.in||https://rubus.co.in/
+Saint Security Malwares|kog@stsc.com||kog@stsc.com||http://stsc.com/en/malwares.html
+Saint Security MAX|root@malwares.com||root@malwares.com||http://stsc.com/en/max.html
+Sangfor Engine Zero|Tech.Support@sangfor.com|https://sec.sangfor.com/user_feedback?lang=EN-US|save@sangfor.com.cn|https://sec.sangfor.com/user_feedback?lang=EN-US|https://www.sangfor.com/cybersecurity/innovations/engine-zero|Registration required
+Scrutiny|training@cyberstanc.com||training@cyberstanc.com||https://cyberstanc.com/site/resources/services/
+SecureAge APEX||https://secureaplus.secureage.com/Main/submit_malware.php||https://www.secureage.com/support/report-false-positive|https://secureage.com
+SentinelOne/Static ML|report@sentinelone.com||report@sentinelone.com||https://sentinelone.com/
+ShawSecure||#McAfee||#McAfee|https://www.shaw.ca/internet/internet-extras/secure/|Homepage not working.
+SmartCOP|support@scopnew.com||support@s-cop.com||http://www.smartcop.in/|\l1Old email: newvirus@s-cop.com\n\l1Blog: http://www.s-cop.com/Index.htm
+Sophos|samples@sophos.com|https://support.sophos.com/support/s/filesubmission?language=en_US|samples@sophos.com|https://support.sophos.com/support/s/filesubmission?language=en_US|https://www.sophos.com/en-us/
+Spamhaus||||https://www.spamhaus.org/dbl/removal/form/|https://www.spamhaus.org|Lookup: https://check.spamhaus.org/
+Spybot Search & Destroy|detections@spybot.info|https://www.safer-networking.org/support/#contactform|detections@spybot.info|https://www.safer-networking.org/support/#contactform|https://www.safer-networking.org/
+SpyHunter4|||||http://www.spycop.org/|\l1Potentially Unwanted Program according to Malwarebytes:\n\l2https://blog.malwarebytes.com/detections/pup-optional-spyhunter/
+SpyHunter5|||||https://www.spyhunter.com|\l1Potentially Unwanted Program according to Malwarebytes:\n\l2https://blog.malwarebytes.com/detections/pup-optional-spyhunter/
+SuperAntiSpyware|superantispyware@support.com|https://www.superantispyware.com/contact.html|superantispyware@support.com|https://www.superantispyware.com/supportfaqdisplay.html?faq=28|https://www.superantispyware.com/|\l1Previous report page not working: http://forums.superantispyware.com/index.php?/topic/2814-submitting-samples-to-superantispyware/\n\l1Reporting by Windows tool:\n\l2https://www.superantispyware.com/contact.html\n\l2Direct link: https://securedownloads.superantispyware.com/SUPERSampleSubmit.exe
+Symantec/NortonLifeLock|avsubmit@symantec.com|https://symsubmit.symantec.com/|false.positives@broadcom.com|https://symsubmit.symantec.com/|https://securitycloud.symantec.com
+Systweak|support@systweak.com|https://analysis.systweak.com/|support@systweak.com|https://analysis.systweak.com/|https://www.systweak.com/
+TEHTRIS eGambit|virus@tehtri-security.com|https://tehtris.com/en/false-positives-false-negatives/|virus@tehtri-security.com|https://tehtris.com/en/false-positives-false-negatives/|https://egambit.app/es/
+Tencent||https://en.security.tencent.com/index.php/report/add|TAVfp@tencent.com||http://www.tencent.com/en-us/
+thirtyseven4|virus@thirtyseven4.com||analyze@thirtyseven4.com||https://www.thirtyseven4.com
+Total Defense|support@totaldefense.com||support@totaldefense.com||https://www.totaldefense.com/|Other email (Kamil Alta list): virus@ca.com
+Trapmine|||fp@trapmine.com||https://www.trapmine.com/
+Trend Micro|trendlabs@av-emea.com||virus_doctor@trendmicro.com|https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html|https://www.trendmicro.com/en_us/business.html|Other email: virus@trendmicro.com
+Trojan Remover/Simply Super Software|submit@simplysup.com||submit@simplysup.com||https://www.simplysup.com|Other email: support@simplysup.com
+TrojanHunter|support@trojanhunter.com||support@trojanhunter.com||https://www.trojanhunter.com
+Trustlook|bd@trustlook.com||bd@trustlook.com||http://www.trustlook.com/
+TrustPort|support@trustport.com|#AVG|support@trustport.com|#AVG|https://www.trustport.com/en
+Trustwave|Spam@trustwave.com||NotSpam@trustwave.com||https://www.trustwave.com/en-us/|Other email: ADavidi@trustwave.com
+Untangle/Arista||#Immunet Protect||#Immunet Protect|https://www.untangle.com/
+Verizon Internet Security/Verizon Digital Secure||#McAfee||#McAfee|https://www.verizon.com/solutions-and-services/apps/digital-secure/|Old page: https://www.verizon.com/support/residential/internet/essentials/internet-security-suite
+Vipre/Sunbelt/Threattrack|homesupport@vipre.com|https://www.vipre.com/support/submit-missed-threat/|homesupport@vipre.com|https://www.vipre.com/support/submit-false-positive/|https://www.vipre.com|\l1Old site: http://www.threattracksecurity.com/\n\l1Other email (Kamil Alta list): malware-cruncher@sunbelt-software.com
+Vir.IT||http://www.tgsoft.it/clienti/file_sospetti.asp||https://www.tgsoft.it/clienti/inviaFile.asp|https://www.tgsoft.it/prodotti/viritexplorer.asp
+VirusDie|partners@virusdie.com||partners@virusdie.com||https://virusdie.com
+VIRUSfighter||#Sophos||#Sophos|https://www.spamfighter.com/VIRUSfighter/
+VirusKeeper|support@viruskeeper.com||support@viruskeeper.com||https://www.viruskeeper.com/us/
+Webroot|esupport@webroot.com|https://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx|esupport@webroot.com|http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx|https://www.webroot.com/us/en|\l1Whitelisting: https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us\n\l1Contact: https://www.webrootanywhere.com/servicewelcome.asp
+Webroot SMD||||https://www.brightcloud.com/tools/file-change-request.php|https://www.webroot.com/nz/en/business/threat-intelligence/file
+XVirus|samples@xvirus.net|https://xvirus.net/submit|samples@xvirus.net|https://xvirus.net/submit|https://xvirus.net/
+Yandex|yandex-antivir@support.yandex.ru||yandex-antivir@support.yandex.ru||https://yandex.com/company/
+Yomi Hunter|||yomi-false-positives@yoroi.company||https://yoroi.company
+Zemana|support@zemana.com|#Emsisoft|support@zemana.com|#Emsisoft|https://zemana.com/us/antimalware.html
+Zillya|virus@zillya.com|https://zillya.com/support|antivirus@zillya.com|https://zillya.com/support|https://zillya.com/
+ZoneAlarm (legacy)/Check Point|zonealarm_VT_reports@checkpoint.com|#Kaspersky|zonealarm_VT_reports@checkpoint.com|#Kaspersky|https://www.checkpoint.com/es/solutions/consumer-small-business/
+ZoneAlarm Next Generation|zonealarm_VT_reports@checkpoint.com|#Sophos|zonealarm_VT_reports@checkpoint.com|#Sophos|https://www.zonealarm.com/
+Zoner|info@zonerantivirus.com||false@zonerantivirus.com||https://zonerantivirus.com/
